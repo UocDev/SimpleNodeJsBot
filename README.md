@@ -30,7 +30,8 @@ npm install
 - Open `config.json` en voeg je bot-token toe:
 ```json
 {
-  "token": "YOUR_DISCORD_BOT_TOKEN"
+  "token": "Ur Bot Token",
+  "clientId": "Ur ClientID"
 }
 ```
 
